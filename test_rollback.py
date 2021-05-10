@@ -1,11 +1,6 @@
 log = logging.getLogger(__name__)
 
 
-"""
-HARVESTER PROTOCOL (FARMER <-> HARVESTER)
-"""
-
-
 class Farmer:
     def __init__(
         self,
